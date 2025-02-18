@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: studious-parakeet-spring
+  elasticsearch:
+    uris: http://localhost:9200  # Elasticsearch 地址
